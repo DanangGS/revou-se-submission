@@ -1,0 +1,34 @@
+.calculator-container{
+    background-color: rgb(80, 166, 236);
+    padding: 3em 3em;
+}
+
+.form-group{
+    position:static;
+    display: inline-flexbox;
+    flex-direction: column;
+    background-color: yellow;
+    padding: 3px;
+}
+
+label{
+    font-weight: bold;
+}
+
+input[type="text"] {
+    width: 80%;
+}
+
+.icon{
+    width: 1%;
+    border: 1px;
+}
+
+.footer{
+    text-align: center;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
